@@ -1,15 +1,30 @@
 # Apache only (ignored by Netlify/Vercel/GitHub Pages)
 ErrorDocument 404 /404.html
+Options -MultiViews
+DirectoryIndex index.html
 RewriteEngine On
+
+# 1. Force HTTPS
 RewriteCond %{HTTPS} off
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-RewriteRule ^index\.html$ / [L,R=301]
+
+# 2. /index.html (and /hi/index.html etc.) -> folder URL, 301
+RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /$1 [L,R=301]
+
+# 3. Old .html URLs -> folder-style clean URLs, 301 (Search Console verification file and 404 page stay as they are)
+RewriteCond %{REQUEST_URI} !^/google8059152972c3b4d0\.html$
+RewriteCond %{REQUEST_URI} !^/404\.html$
+RewriteCond %{THE_REQUEST} \s/(.+?)\.html[\s?] [NC]
+RewriteRule ^ /%1/ [L,R=301]
+
 <IfModule mod_deflate.c>
 AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json application/xml image/svg+xml
 </IfModule>
 <IfModule mod_expires.c>
 ExpiresActive On
 ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
 ExpiresByType image/x-icon "access plus 1 year"
 ExpiresByType text/css "access plus 1 month"
 ExpiresByType application/javascript "access plus 1 month"

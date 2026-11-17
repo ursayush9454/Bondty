@@ -1,91 +1,523 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bondty.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bondty.com/how-it-works.html</loc>
+    <loc>https://bondty.com/hi/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/how-it-works/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/how-it-works/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bondty.com/features.html</loc>
+    <loc>https://bondty.com/hi/how-it-works/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/how-it-works/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bondty.com/screens.html</loc>
+    <loc>https://bondty.com/hinglish/how-it-works/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/how-it-works/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/features/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/features/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/features/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/features/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/features/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/features/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/features/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/features/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/features/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/features/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/features/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/features/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/features/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/features/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/features/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/screens/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/screens/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/screens/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/screens/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/screens/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bondty.com/safety.html</loc>
+    <loc>https://bondty.com/hi/screens/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/screens/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/screens/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/screens/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/screens/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/screens/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/screens/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/screens/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/screens/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/screens/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/safety/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/safety/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/safety/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/safety/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/safety/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bondty.com/partner.html</loc>
+    <loc>https://bondty.com/hi/safety/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/safety/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/safety/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/safety/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/safety/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/safety/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/safety/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/safety/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/safety/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/safety/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/partner/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/partner/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/partner/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/partner/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/partner/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bondty.com/faq.html</loc>
+    <loc>https://bondty.com/hi/partner/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/partner/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/partner/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/partner/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/partner/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/partner/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/partner/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/partner/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/partner/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/partner/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/faq/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bondty.com/download.html</loc>
+    <loc>https://bondty.com/hi/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/faq/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/faq/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/faq/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/download/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/download/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/download/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/download/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/download/"/>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://bondty.com/pricing.html</loc>
+    <loc>https://bondty.com/hi/download/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/download/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/download/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/download/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/download/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/download/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/download/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/download/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/download/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/download/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/talk-to-someone-online/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/talk-to-someone-online/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/talk-to-someone-online/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/talk-to-someone-online/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/talk-to-someone-online/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/talk-to-someone-online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/talk-to-someone-online/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/exam-stress-talk/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/exam-stress-talk/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/exam-stress-talk/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/exam-stress-talk/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/exam-stress-talk/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/exam-stress-talk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/exam-stress-talk/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/loneliness-chat-india/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/loneliness-chat-india/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/loneliness-chat-india/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/loneliness-chat-india/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/loneliness-chat-india/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/loneliness-chat-india/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/loneliness-chat-india/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/voice-call-listener-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/voice-call-listener-app/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/voice-call-listener-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/voice-call-listener-app/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/voice-call-listener-app/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/voice-call-listener-app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/voice-call-listener-app/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/blog/akelapan-feel-ho-to-kya-kare/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/blog/akelapan-feel-ho-to-kya-kare/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/akelapan-feel-ho-to-kya-kare/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/blog/work-pressure-se-kaise-deal-kare/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/work-pressure-se-kaise-deal-kare/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/blog/work-pressure-se-kaise-deal-kare/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/work-pressure-se-kaise-deal-kare/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/blog/work-pressure-se-kaise-deal-kare/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/work-pressure-se-kaise-deal-kare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/work-pressure-se-kaise-deal-kare/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/blog/baat-karne-ke-fayde/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/baat-karne-ke-fayde/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hi/blog/baat-karne-ke-fayde/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/baat-karne-ke-fayde/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/hinglish/blog/baat-karne-ke-fayde/</loc>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://bondty.com/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="hi-IN" href="https://bondty.com/hi/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="hi-Latn" href="https://bondty.com/hinglish/blog/baat-karne-ke-fayde/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bondty.com/blog/baat-karne-ke-fayde/"/>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/about/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/contact/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bondty.com/pricing/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://bondty.com/about.html</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://bondty.com/contact.html</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://bondty.com/terms.html</loc>
+    <loc>https://bondty.com/terms/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://bondty.com/privacy.html</loc>
+    <loc>https://bondty.com/privacy/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://bondty.com/refunds.html</loc>
+    <loc>https://bondty.com/refunds/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://bondty.com/shipping.html</loc>
+    <loc>https://bondty.com/shipping/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

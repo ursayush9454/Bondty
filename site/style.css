@@ -76,3 +76,27 @@ main{animation:pg .6s both}@keyframes pg{from{opacity:0;transform:translateY(10p
 @media(max-width:980px){.sc{grid-template-columns:1fr;gap:0}.pin{top:68px;height:auto;padding:10px 0 14px;z-index:5;background:linear-gradient(var(--bg) 80%,transparent)}.pin .ph{height:min(44vh,360px)}.stp{min-height:62vh;opacity:.4;transform:none}.stp.act{opacity:1}}
 @media(prefers-reduced-motion:reduce){.ps{transition:none}}
 .chips span span,.hero .chips span span{border:0;padding:0;background:none;border-radius:0}.stp .eb{align-self:flex-start}
+
+/* --- SEO update: language links, prose pages, blog --- */
+.seg a{color:var(--mut);font:600 12px var(--tx);padding:6px 10px;border-radius:99px;text-decoration:none;transition:.2s}
+.seg a.on{background:var(--g);color:#fff}
+.phead h1.sm{font-size:clamp(30px,4.6vw,52px);max-width:900px;margin-inline:auto}
+.phead .lead{margin-top:18px}
+.crumbs{font-size:13px;color:var(--mut);margin:0 0 16px}.crumbs a{color:var(--mut);text-decoration:none}.crumbs a:hover{color:var(--ink)}
+.byline{font-size:13px;color:var(--mut);margin:14px 0 0}
+.prose{max-width:780px;margin:0 auto}
+.prose h2{font-size:clamp(24px,3.2vw,32px);margin:40px 0 14px;line-height:1.2}
+.prose p,.prose li{color:var(--mut);font-size:17px;line-height:1.75}
+.prose p{margin:0 0 16px}.prose ul,.prose ol{padding-left:22px;margin:0 0 16px}.prose li{margin-bottom:6px}
+.prose .intro{font-size:19px;color:var(--ink)}
+.prose a{color:var(--v);font-weight:600}
+.prose details{margin-bottom:12px}.prose details p{font-size:16px}
+.disc{border:1px solid var(--line);background:var(--card);border-radius:18px;padding:16px 20px;margin:36px 0 8px;font-size:14px!important;line-height:1.6!important}
+.rel{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 20px}
+.rel a{padding:9px 16px;border:1px solid var(--line);background:var(--card);border-radius:99px;text-decoration:none;font-size:14px;color:var(--ink);font-weight:500}
+.rel a:hover{border-color:var(--v)}
+.posts{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.postcard{display:block;text-decoration:none;color:inherit}
+.postcard h3{font-size:22px;margin:0 0 10px;line-height:1.25}.postcard p{color:var(--mut);margin:0 0 14px}
+.more,.back2{color:var(--v);font-weight:600;text-decoration:none}
+#about-bondty .prose h2{margin-top:12px}
